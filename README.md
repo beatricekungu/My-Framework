@@ -1,9 +1,8 @@
 # ZeroTrustHealthDB – A GRC‑Driven Azure SQL Data Protection Engagement
 
-**Consultant:** [Your Name] – Microsoft Certified: Azure Database Administrator Associate  
+**Consultant:** Beatrice – Microsoft Certified: Azure Database Administrator Associate  
 **Client:** GlobalMed Health & Financial (fictitious multinational healthcare & insurance provider)  
-**Duration:** 4‑hour Minimum Viable Product (MVP) sprint  
-**Repository:** Zero‑trust data layer enforcing HIPAA, GDPR, and PCI‑DSS using native Azure SQL controls
+
 
 ---
 
